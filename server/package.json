@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Ishan Madhav",
+  "author": "Charmi Mehta",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
